@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1666356201 source:c:\users\facom.facom\desktop\lab03\lab03\ex 1.c
+	<stdio.h>
+	<stdlib.h>
+
+1666355760 source:c:\users\facom.facom\desktop\lab03\lab03\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1666356734 source:c:\users\facom.facom\desktop\lab03\lab03\ex 2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
